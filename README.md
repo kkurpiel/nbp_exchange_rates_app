@@ -5,25 +5,26 @@ Umożliwia przeglądanie kursów w czasie, obliczanie zmian dziennych, średnich
 
 🛠 Funkcjonalności:
 
--> Pobieranie kursów walut z bazy danych lub API NBP.
+=> Pobieranie kursów walut z bazy danych lub API NBP.
 
--> Wybór walut i zakresu dat.
+=> Wybór walut i zakresu dat.
 
--> Wizualizacje kursów walut:
+=> Wizualizacje kursów walut:
 
---> Kurs w czasie (liniowy)
+====> Kurs w czasie (liniowy)
 
---> Zmiana dzienna (%) (słupkowy)
+====> Zmiana dzienna (%) (słupkowy)
 
---> Średnia krocząca (7 dni)
+====> Średnia krocząca (7 dni)
 
---> Odchylenie (7 dni)
+====> Odchylenie (7 dni)
 
---> Relacja między wybranymi walutami
+====> Relacja między wybranymi walutami
 
---> Wskaźnik siły waluty
+====> Wskaźnik siły waluty
 
---> Korelacja walut (mapa cieplna)
+====> Korelacja walut (mapa cieplna)
 
--> Pobieranie danych do pliku i wyświetlanie w tabeli.
--> Obsługa błędów, logowanie działań i brakujących danych.
+=> Pobieranie danych do pliku i wyświetlanie w tabeli.
+
+=> Obsługa błędów, logowanie działań i brakujących danych.
